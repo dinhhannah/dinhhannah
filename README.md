@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Hannah Dinh and I am currently pursuing a degree in Computer Science at De Anza College with an intent to transfer to a 4-year university.
+Previously, I studied at Santa Clara University for a year before transferring to De Anza College.
 
 - 📫 How to reach me: hannahdinhHD@gmail.com
 

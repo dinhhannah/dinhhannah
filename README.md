@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Hannah Dinh and I am currently pursuing a degree in Computer Science at UC Santa Cruz.
-Previously, I studied at Santa Clara University for my first year, transferred to De Anza College and studied there for my second year, then transferred to UCSC. I also took a couple classes at Footill College while I was at De Anza.
+Previously, I studied at Santa Clara University for my first year, transferred to De Anza College and studied there for my second year, and am now studying at UCSC. I also took a couple classes at Footill College while I was at De Anza.
 
 - 📫 How to reach me: hannahdinhHD@gmail.com
 
